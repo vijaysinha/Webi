@@ -1,0 +1,63 @@
+html{
+	font: sans-serif;
+	background: url("/home/maveric/Desktop/medix/loginSignup/login.svg");
+}
+
+.form{
+	position:relative;
+	background-color: rgba(208,218,165, 0 ,2);
+	background-repeat: no-repeat;
+	padding: 7px 16px 7px 10px;;
+	font-size: 20px;
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	margin: auto;
+	margin-top: 175PX;
+	border:1px solid rgba(57, 121, 127, 0.2);	
+}
+
+input[type="image"]{
+	position: relative;
+	width: 75px;
+	height: 70px;
+	margin: auto;
+	margin-left: 15px;
+
+}
+
+#form{
+	margin-top: ;
+	
+}
+
+input{
+	padding: 8px 10px 8px 8px;
+	margin: auto;
+	border:none;
+	border-radius:15px;
+	margin-top: 45px;
+	width: 270px;
+}
+input:focus{
+	outline: none;
+	box-shadow: 0 0 15px #719ECE;
+	
+	border-radius:15px;
+	
+}
+input[type="button"]{
+	size: 10px;
+	font: sans-serif;
+	font-size: 22px;
+	background-color: #4bcb6c;
+	border:none;
+	border-radius:15px;
+	cursor: pointer;
+}
+input[type="button"]:focus{
+	background-color: rgb(38,166,91);
+	
+}
+
+	 
